@@ -140,6 +140,8 @@ Once you can write CUDA, Triton lets you write the same kernels in Python at the
 
 Once these kernels feel familiar, the [CUDA Kernels study plan](https://www.tensortonic.com/study-plans/cuda-basics) and the [Triton Kernels study plan](https://www.tensortonic.com/study-plans/triton-basics) collect every kernel above in one place. The [FlashAttention project](https://www.tensortonic.com/projects/flash-attention-from-scratch) builds a full attention kernel step by step, and the [Inference Engineering study plan](https://www.tensortonic.com/study-plans/cracking-inference) shows where these kernels fit in a production LLM server.
 
+If Stage 7 made you want to write more kernels in Triton, the [How to Learn Triton](https://www.tensortonic.com/guides/how-to-learn-triton) guide explains how to keep learning it once the CUDA basics in this roadmap make sense.
+
 ## License
 
 MIT
